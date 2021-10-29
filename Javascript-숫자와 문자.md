@@ -1,35 +1,28 @@
-#2021.10.29(FRI) Javascript 숫자와 문자(1/4)
+# 2021.10.29(FRI) Javascript 숫자와 문자(1/4)
 
-##수의 표현
+## 수의 표현
 
 ```javascript
 alert(5+9);
-```
-output : 14
-
-```javascript
+//14
 alert(1.7+2.3);
-```
-output : 4
-
-```javascript
+//4
 alert(10*4);
-```
-output : 40
-
-```javascript
+//40
 alert(10/2);
+//5
 ```
-output : 5
 
-###Reference
+
+### Reference
+
 <https://www.youtube.com/watch?v=lfNMuwGHbL0&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=5>
 <http://opentutorials.org/module/532/4647>
 
 
 #Javascript 숫자와 문자(2/4)#
 
-##수의 연산
+## 수의 연산
 
 ```javascript
 math.pow(2,3);
