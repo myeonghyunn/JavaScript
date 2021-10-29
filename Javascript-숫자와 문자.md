@@ -13,7 +13,7 @@ alert(10/2);
 ```
 
 
->Reference
+>### Reference
 
 <https://www.youtube.com/watch?v=lfNMuwGHbL0&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=5>
 <http://opentutorials.org/module/532/4647>
@@ -37,7 +37,7 @@ Math.random();
 //0부터 1.0 사이 임의의 숫자
 ```
 
->Reference
+>### Reference
 
 <https://www.youtube.com/watch?v=vmjHeYSneOg&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=6>
 <https://opentutorials.org/module/532/4647>
@@ -57,7 +57,7 @@ alert('you\'re welcome');
 //escape를 활용, 작은따옴표를 문자열 안에 포함시킴.
 ```
 
->Reference
+>### Reference
 
 <https://www.youtube.com/watch?v=2Qc3BBRZSnA&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=7>
 <https://opentutorials.org/module/532/4647>
@@ -78,7 +78,7 @@ alert("Hello World!" .length);
 ```
 
 
->Reference
+>### Reference
 
 <https://www.youtube.com/watch?v=WJeDrf_tNz0&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=8>
 <https://opentutorials.org/module/532/4647>
