@@ -21,7 +21,7 @@ alert(x+y);   //Hello World
 <https://www.youtube.com/watch?v=wZTcQlnDWQo&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=9>
 <https://opentutorials.org/module/532/4673>
 
-# 제목  JavaScript-변수(2/2)
+# JavaScript-변수(2/2)
 ## 변수의 효용
 
 
