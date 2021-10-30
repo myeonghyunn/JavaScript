@@ -1,0 +1,31 @@
+#  2021.10.30(SAT) JavaScript-변수(1/2)
+## 사용법
+
+변수(Variable)는 (문자나 숫자 같은) 값을 담는 컨테이너로 값을 유지할 필요가 있을 때 사용한다. 여기에 담겨진 값은 다른 값으로 바꿀 수 있다.
+
+```javascript
+var a = 10;
+alert(a+10);  //20
+
+var a = 1;
+var b = 3;
+alert(a+b);  //4
+
+var x = 'Hello', y = ' World';
+alert(x+y);   //Hello World
+```
+
+
+>###Reference
+
+<https://www.youtube.com/watch?v=wZTcQlnDWQo&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=9>
+<https://opentutorials.org/module/532/4673>
+
+# 제목  JavaScript-변수(2/2)
+## 변수의 효용
+
+
+>###Reference
+
+<https://www.youtube.com/watch?v=knIpYEODO3Y&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=10>
+<https://opentutorials.org/module/532/4673>
