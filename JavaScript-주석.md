@@ -6,7 +6,7 @@ JavaScript 언어애서의 '//'는 특수한 의미를 갖는다.
 
 정말 좋은 코드는 주석조차 달지않아도 이해할 수 있는 가독성이 좋은 코드라고 한다.
 
->###Reference
+>### Reference
 
 <https://www.youtube.com/watch?v=xUZku_V1Prs&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=11>
 <https://opentutorials.org/module/532/6470>
