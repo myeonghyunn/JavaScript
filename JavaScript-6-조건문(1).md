@@ -43,6 +43,7 @@ if (false) {
 }
 
 
+
 ```javascript
 if (true) {
     alert("true-1");
