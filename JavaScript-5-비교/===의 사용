@@ -1,0 +1,21 @@
+# 2021.11.05(FRI) JavaScript-비교(3/4)
+## ===를 사용하자!
+
+```javascript
+alert(null == undefined);   //true
+alert(null === undefined);    //false
+alert(true == 1);   //true
+alert(true === 1);    //false
+alert(true === '1');    //true
+alert(0 === -0);    //true
+alert(NaN === NaN);   //false
+```
+
+
+>### Reference
+
+<https://dorey.github.io/JavaScript-Equality-Table/>
+<https://www.youtube.com/watch?v=rN0045zf-y4&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU&index=15>
+<https://opentutorials.org/module/532/4722>
+
+
