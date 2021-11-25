@@ -1,0 +1,7 @@
+alert(null == undefined);   //true
+alert(null === undefined);    //false
+alert(true == 1);   //true
+alert(true === 1);    //false
+alert(true === '1');    //true
+alert(0 === -0);    //true
+alert(NaN === NaN);   //false
